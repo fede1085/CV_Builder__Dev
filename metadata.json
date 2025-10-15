@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Online CV",
+  "description": "A dynamic and editable online curriculum vitae, inspired by Notion's clean aesthetic. Users can toggle between view and edit modes to update their personal information, experience, education, and more in real-time, with changes saved locally.",
+  "requestFramePermissions": []
+}
