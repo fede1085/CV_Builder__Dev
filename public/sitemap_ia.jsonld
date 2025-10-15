@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "CV Builder",
+  "description": "A dynamic, data-driven CV generator built with React, TypeScript, and Vite. Create, customize, and download your professional resume with ease.",
+  "url": "https://cv-builder-dev.com",
+  "applicationCategory": "ProductivityTool",
+  "operatingSystem": "All",
+  "inLanguage": "en",
+  "creator": {
+    "@type": "Person",
+    "name": "Federico Mosqueira"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "license": "https://opensource.org/licenses/MIT",
+  "keywords": "CV Builder, Resume Builder, React, TypeScript, Vite, PDF, Online CV, Dynamic Resume, Web Application",
+  "featureList": [
+    "Dynamic Content Rendering",
+    "Real-time Edit & View Modes",
+    "Component-Based Architecture",
+    "Local Storage Persistence",
+    "PDF Export"
+  ]
+}
