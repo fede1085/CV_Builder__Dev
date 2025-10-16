@@ -1,7 +1,7 @@
 <!-- <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div> -->
-<div align="center">
+<!-- <div align="center">
 
 # Run and deploy your AI Studio app
 # CV Builder 📄
@@ -10,7 +10,7 @@ This contains everything you need to run your app locally.
 **A dynamic, data-driven CV generator built with React, TypeScript, and Vite. Create, customize, and download your professional resume with ease.**
 
 View your app in AI Studio: https://ai.studio/apps/drive/1cZNg6vfu_sWANEoFSx46M_sqeW0UdXSJ
-</div>
+</div> -->
 
 ## Run Locally
 ---
